@@ -4,7 +4,8 @@ Esta versión toma los datos de una planilla de Google Sheets, la cual se llena 
 
 #### Tener la versión de python3.8 o superior instalada
 
-`python3 --version` 
+    python3 --version
+    
 >si no funciona en vez de "python3" probar "py" o "python"
 
 #### Crear un entorno virtual usando el comando
