@@ -29,3 +29,5 @@ Esta versión toma los datos de una planilla de Google Sheets, la cual se llena 
     python3 main.py 
 
 >como comenté anteriormente si no funciona probar con "python" o "py" en vez de "python3"
+
+#### Tambien tener en cuenta que van a necesitar ciertos archivos, como por ejemplo las credenciales, los cuales no estan subidos al repositorio por motivos de seguridad
